@@ -17,7 +17,7 @@ Immobilier et Marché du Travail.
 | # | Projet | Secteur | Stack | Statut |
 |---|--------|---------|-------|--------|
 | 1 | [Finance Analytics Dashboard](./01_Finance_Analytics) | Finance | Power BI · DAX · Power Query | ✅ Terminé |
-| 2 | HR Analytics Dashboard | RH | Power BI · DAX | 🔄 En cours |
+| 2 | [HR Analytics Dashboard](./02_HR_Analytics) | RH | Power BI · DAX | ✅ Terminé |
 | 3 | Sales Performance Dashboard | Commercial | Power BI · DAX | ⬜ À venir |
 | 4 | Analyse Marché Immobilier | Immobilier | Python · Power BI | ⬜ À venir |
 | 5 | Analyse Marché du Travail | Data | Python · Power BI | ⬜ À venir |
