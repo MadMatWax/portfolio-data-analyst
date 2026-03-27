@@ -1,0 +1,59 @@
+{
+  "name": "Sales Performance Theme",
+  "dataColors": [
+    "#1A3C2E",
+    "#F97316",
+    "#00B09B",
+    "#E84545",
+    "#3B82F6",
+    "#8B5CF6",
+    "#F59E0B",
+    "#10B981"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#1A3C2E",
+  "tableAccent": "#F97316",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{"value": "Segoe UI"}],
+        "fontSize": [{"value": 11}],
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{
+          "fontSize": 24,
+          "fontBold": true,
+          "color": {"solid": {"color": "#1A3C2E"}}
+        }],
+        "label": [{
+          "fontSize": 11,
+          "color": {"solid": {"color": "#6B7280"}}
+        }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#1A3C2E"}}
+        }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#1A3C2E"}}
+        }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#1A3C2E"}}
+        }]
+      }
+    }
+  }
+}
